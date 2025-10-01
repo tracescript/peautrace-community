@@ -1,275 +1,137 @@
-# Privacy Policy for PeauTrace
+# Privacy Policy & Data Protection for PeauTrace
 
-**Effective Date:** December 2024  
-**Last Updated:** December 2024
+**Effective Date:** October 2025  
+**Last Updated:** Octoberr 2025
 
-## Introduction
+## Your Privacy Matters
 
-Welcome to PeauTrace ("we," "our," or "us"). We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application PeauTrace (the "App").
+We are committed to protecting your personal data and ensuring transparency in how we collect, use, and store your information.
 
-By using our App, you agree to the collection and use of information in accordance with this Privacy Policy.
+## Data We Collect
 
-## Information We Collect
+### Profile Information
+- **What:** Name, email, skin type, concerns, and goals
+- **Purpose:** Essential for app functionality
 
-### Personal Information
-We collect information that you provide directly to us, including:
+### Profile Pictures
+- **What:** Images you upload for your profile
+- **Purpose:** Stored securely in Firebase Storage
 
-- **Account Information**: Name, email address, profile picture
-- **Skin Profile Data**: Skin type, concerns, goals, and preferences
-- **Health Information**: Skincare routines, product usage, progress photos
-- **User-Generated Content**: Photos, notes, and reviews you create
-- **Subscription Information**: Payment details and subscription status
+### Usage Data
+- **What:** App usage patterns and preferences
+- **Purpose:** Helps improve app experience
 
-### Automatically Collected Information
-We automatically collect certain information when you use our App:
+### Device Information
+- **What:** Device type, operating system, app version
+- **Purpose:** Technical support and compatibility
 
-- **Device Information**: Device type, operating system, unique device identifiers
-- **Usage Data**: App features used, time spent in app, interaction patterns
-- **Location Data**: General location information (with your consent)
-- **Technical Data**: IP address, browser type, app version, crash reports
+## How We Use Your Data
 
-### Third-Party Information
-We may receive information from third parties:
+### Personalized Experience
+- **What:** Customize recommendations based on your skin profile
+- **Legal Basis:** Consent-based processing
 
-- **Social Media**: Information from Google Sign-In or Apple Sign-In
-- **Analytics Providers**: Usage statistics and performance data
-- **Payment Processors**: Transaction information for subscriptions
+### App Functionality
+- **What:** Enable core features like routine tracking
+- **Legal Basis:** Contractual necessity
 
-## How We Use Your Information
+### Improvements
+- **What:** Analyze usage to improve app features
+- **Legal Basis:** Legitimate interest
 
-We use the information we collect for the following purposes:
+### Support
+- **What:** Provide customer support and assistance
+- **Legal Basis:** Contractual necessity
 
-### Core App Functionality
-- Provide personalized skincare recommendations
-- Track your skincare routine and progress
-- Enable product scanning and identification
-- Manage your account and preferences
-- Process subscription payments
+## Your Rights Under GDPR
 
-### Service Improvement
-- Analyze usage patterns to improve our App
-- Develop new features and functionality
-- Conduct research and analytics
-- Provide customer support
+### Right to Access
+- **What:** Request a copy of all your personal data
+- **How:** Data portability
 
-### Communication
-- Send important updates about the App
-- Respond to your inquiries and support requests
-- Send marketing communications (with your consent)
-- Notify you about subscription changes
+### Right to Rectification
+- **What:** Correct inaccurate or incomplete data
+- **How:** Update your profile anytime
 
-### Legal Compliance
-- Comply with applicable laws and regulations
-- Protect our rights and interests
-- Prevent fraud and abuse
-- Enforce our terms of service
+### Right to Erasure
+- **What:** Request deletion of your personal data
+- **How:** Right to be forgotten
 
-## Information Sharing and Disclosure
+### Right to Restrict Processing
+- **What:** Limit how we use your data
+- **How:** Control your privacy settings
 
-We do not sell, trade, or rent your personal information to third parties. We may share your information in the following circumstances:
-
-### Service Providers
-We may share information with trusted third-party service providers who assist us in:
-- Data storage and processing (Firebase, Google Cloud)
-- Payment processing (Google Play, Apple App Store)
-- Analytics and crash reporting
-- Customer support services
-
-### Legal Requirements
-We may disclose your information if required to:
-- Comply with legal obligations
-- Respond to lawful requests from authorities
-- Protect our rights and property
-- Ensure user safety and security
-
-### Business Transfers
-In the event of a merger, acquisition, or sale of assets, your information may be transferred as part of the transaction.
+### Right to Object
+- **What:** Opt out of certain data processing
+- **How:** Marketing communications
 
 ## Data Security
 
-We implement appropriate technical and organizational measures to protect your personal information:
+### Encryption
+- **What:** All data is encrypted in transit and at rest
+- **Standard:** Industry-standard security
 
-### Security Measures
-- **Encryption**: All data is encrypted in transit and at rest
-- **Access Controls**: Strict access controls and authentication
-- **Regular Audits**: Ongoing security assessments and updates
-- **Data Minimization**: We only collect necessary information
+### Access Controls
+- **What:** Strict access controls and authentication
+- **Standard:** Authorized personnel only
 
-### Data Storage
-- Your data is stored on secure servers provided by Google Firebase
-- We use industry-standard security practices
-- Regular backups ensure data availability
-- Data is stored in compliance with applicable regulations
+### Regular Audits
+- **What:** Regular security assessments and updates
+- **Standard:** Continuous monitoring
 
-## Your Rights and Choices
+### Data Minimization
+- **What:** We only collect data necessary for functionality
+- **Standard:** Privacy by design
 
-Depending on your location, you may have the following rights:
+## Regional Compliance
 
-### General Rights
-- **Access**: Request a copy of your personal data
-- **Correction**: Update or correct inaccurate information
-- **Deletion**: Request deletion of your personal data
-- **Portability**: Export your data in a machine-readable format
-- **Objection**: Opt out of certain data processing activities
+### GDPR Compliance (EU Users)
+You are located in a region covered by the General Data Protection Regulation (GDPR). This means you have enhanced privacy rights and we provide additional data protection measures. You can manage your consent preferences in the app.
 
-### GDPR Rights (EU Users)
-If you are in the European Union, you have additional rights under the General Data Protection Regulation:
-- Right to restrict processing
-- Right to data portability
-- Right to withdraw consent
-- Right to lodge a complaint with a supervisory authority
+### CCPA Compliance (California Users)
+You are located in California, which is covered by the California Consumer Privacy Act (CCPA). This means you have specific rights regarding your personal information, including the right to know what data we collect and how we use it.
 
-### CCPA Rights (California Users)
-If you are a California resident, you have rights under the California Consumer Privacy Act:
-- Right to know what personal information is collected
-- Right to delete personal information
-- Right to opt out of the sale of personal information
-- Right to non-discrimination
-
-## Data Retention
-
-We retain your personal information for as long as necessary to:
-- Provide our services to you
-- Comply with legal obligations
-- Resolve disputes
-- Enforce our agreements
-
-### Retention Periods
-- **Account Data**: Until account deletion or 3 years of inactivity
-- **Usage Data**: Up to 2 years for analytics purposes
-- **Subscription Data**: As required by law and payment processors
-- **Photos and Content**: Until you delete them or close your account
-
-## International Data Transfers
-
-Your information may be transferred to and processed in countries other than your own. We ensure appropriate safeguards are in place for international transfers, including:
-- Standard Contractual Clauses
-- Adequacy decisions
-- Appropriate technical and organizational measures
-
-## Children's Privacy
-
-Our App is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately.
-
-## Third-Party Services
-
-Our App integrates with third-party services that have their own privacy policies:
-
-### Google Services
-- **Google Sign-In**: [Google Privacy Policy](https://policies.google.com/privacy)
-- **Firebase**: [Firebase Privacy Policy](https://firebase.google.com/support/privacy)
-- **Google Play**: [Google Play Privacy Policy](https://policies.google.com/privacy)
-
-### Apple Services
-- **Apple Sign-In**: [Apple Privacy Policy](https://www.apple.com/privacy/)
-- **App Store**: [App Store Privacy Policy](https://www.apple.com/privacy/)
-
-## Cookies and Tracking Technologies
-
-We use cookies and similar technologies to:
-- Remember your preferences
-- Analyze app usage
-- Improve user experience
-- Provide personalized content
-
-You can control cookie settings through your device or browser preferences.
-
-## Subscription and Payment Information
-
-### Payment Processing
-- Payment information is processed by Google Play and Apple App Store
-- We do not store your payment card information
-- Subscription management is handled through the respective app stores
-
-### Subscription Data
-We collect and process:
-- Subscription status and history
-- Payment confirmation
-- Trial period information
-- Cancellation requests
-
-## Marketing Communications
-
-We may send you marketing communications if you have opted in. You can:
-- Unsubscribe from marketing emails
-- Adjust notification settings in the App
-- Contact us to update your preferences
-
-## Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. We will:
-- Notify you of significant changes
-- Post the updated policy in the App
-- Update the "Last Updated" date
-- Obtain consent where required by law
-
-## Contact Information
-
-If you have questions about this Privacy Policy or our data practices, please contact us:
-
-### Data Protection Officer
-- **Email**: privacy@peautrace.com
-- **Response Time**: Within 30 days
-
-### General Support
-- **Email**: support@peautrace.com
-- **Response Time**: Within 48 hours
-
-### Data Requests
-- **Email**: data@peautrace.com
-- **For**: Data access, correction, or deletion requests
-
-### Mailing Address
-```
-PeauTrace Privacy Team
-[Your Company Address]
-[City, State, ZIP Code]
-[Country]
-```
-
-## Regional Privacy Notices
-
-### European Union (GDPR)
-If you are in the EU, you have additional rights and protections under the General Data Protection Regulation. Our lawful basis for processing includes:
-- **Consent**: For marketing communications and optional features
-- **Contract**: For providing our services
-- **Legitimate Interest**: For app improvement and security
-
-### California (CCPA)
-If you are a California resident, you have specific rights under the California Consumer Privacy Act. We do not sell personal information to third parties.
-
-### Other Jurisdictions
-We comply with applicable privacy laws in all jurisdictions where we operate.
+### General Privacy Notice
+We are committed to protecting your privacy regardless of your location. This privacy policy explains how we collect, use, and protect your personal information.
 
 ## Consent Management
 
-You can manage your privacy preferences through:
-- **App Settings**: Privacy and notification settings
-- **Account Settings**: Data sharing preferences
-- **Email Preferences**: Marketing communication settings
-- **Contact Us**: Direct requests for data management
+You can manage your privacy preferences through the app settings:
 
-## Data Breach Notification
+### Data Processing
+- **What:** Allow processing of your personal data for app functionality
+- **Control:** Toggle in app settings
 
-In the event of a data breach that may affect your personal information, we will:
-- Notify you within 72 hours (where required by law)
-- Provide details about the breach and affected data
-- Explain steps we're taking to address the breach
-- Offer guidance on protecting your information
+### Analytics
+- **What:** Help us improve the app by sharing anonymous usage data
+- **Control:** Toggle in app settings
 
-## Complaints and Disputes
+### Personalization
+- **What:** Enable personalized recommendations and features
+- **Control:** Toggle in app settings
 
-If you have concerns about our data practices, you can:
-1. Contact our Data Protection Officer
-2. File a complaint with your local data protection authority
-3. Seek legal remedies as available under applicable law
+### Marketing
+- **What:** Receive updates about new features and tips
+- **Control:** Toggle in app settings
 
-## Effective Date and Updates
+## Contact Us
 
-This Privacy Policy is effective as of December 2024. We will notify you of any material changes and obtain your consent where required by applicable law.
+### Data Protection Officer
+- **Email:** privacy@peautrace.com
+- **Purpose:** For privacy-related inquiries
+
+### General Support
+- **Email:** support@peautrace.com
+- **Purpose:** For general app support
+
+### Data Requests
+- **Email:** data@peautrace.com
+- **Purpose:** For data access or deletion requests
+
+---
+
+**Last Updated:** December 2024
 
 ---
 
 **PeauTrace** - Trace your beauty. Track your glow.
-
-*This Privacy Policy is designed to be transparent and user-friendly. If you have any questions or need clarification on any section, please don't hesitate to contact us.*
